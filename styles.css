@@ -1,0 +1,89 @@
+/*
+body{
+  background-color: red;
+}
+*/
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 100px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+header {
+  background: rgb(32, 101, 136);
+  height: 75vh;
+  font: white;
+}
+
+.collaboration {
+  background: rgb(39, 53, 71);
+  height: 75vh;
+  font: white;
+}
+
+.npm {
+  font: white;
+  height: 75vh;
+  background-image: url(./images/forklift.svg);
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+  float: right;
+}
+
+h3 {
+  color: white;
+}
+
+p.build2 {
+  color: white;
+}
+
+p.npm {
+  color: white;
+}
+
+.make {
+  background-color: white;
+  height: 75vh;
+}
+
+.build {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.collab-ul {
+  color: white;
+  float: right;
+}
+
+.collab {
+  margin: 0 auto;
+  flota: right;
+  color: white;
+} 
